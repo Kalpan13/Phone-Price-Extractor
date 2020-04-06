@@ -1,5 +1,5 @@
 # Phone-Price-Extractor
-A Python WebScraping script for extracting SmartPhone prices
+A Python script for extracting SmartPhone prices using WebScaping
 
 Required Libraries can be installed using pip
 
